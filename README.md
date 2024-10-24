@@ -1,11 +1,11 @@
 # empresa_alquiler_autos
 
-Descripción basisca de su Proyecto de POO ...
+Descripción básica de su Proyecto de POO ...
 
 # Autores
 
-- Autor 1
-- Autor 2
+- Esteban Polanco Méndez
+- 
 
 # Herramientas
 
