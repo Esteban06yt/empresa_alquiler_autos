@@ -1,6 +1,6 @@
 # empresa_alquiler_autos
 
-Descripciín basisca de su Proyecto de POO ...
+Descripción basisca de su Proyecto de POO ...
 
 # Autores
 
