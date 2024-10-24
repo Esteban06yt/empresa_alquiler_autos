@@ -5,7 +5,9 @@ Descripción básica de su Proyecto de POO ...
 # Autores
 
 - Esteban Polanco Méndez
-- 
+- Johan
+- Juan Jose
+- Santiago
 
 # Herramientas
 
